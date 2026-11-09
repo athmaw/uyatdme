@@ -1,0 +1,12 @@
+student_id,first_name,last_name,course,year_level,email,tuition_balance
+2026001,Juan,Dela Cruz,BSIT,3,juan@example.com,0
+2026002,Maria,Santos,BSCS,2,maria@example.com,5000
+2026003,Pedro,Reyes,BSIT,3,pedro@example.com,1500
+2026004,Ana,Lim,BSCS,1,ana@example.com,0
+2026005,Carlo,Garcia,BSIT,4,carlo@example.com,2500
+2026006,Sofia,Mendoza,BSCS,2,sofia@example.com,3200
+2026007,Miguel,Torres,BSIT,1,miguel@example.com,0
+2026008,Isabella,Ramos,BSCS,3,isabella@example.com,1800
+2026009,Gabriel,Flores,BSIT,4,gabriel@example.com,750
+2026010,Nicole,Castro,BSCS,1,nicole@example.com,4200
+

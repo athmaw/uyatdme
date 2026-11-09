@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSV to JSON - Data Map Exercise</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Student Information Header -->
+        <div class="header-section">
+            <h1 id="studentName">Athena Jamie Uy</h1>
+            <h3 id="studentSchedule"><i>IT 3206N MW 6:00 - 8:30 PM</i></h3>
+        </div>
+
+        <h1 class="app-title">CSV to JSON</h1>
+
+        <!-- Step 1: Upload CSV -->
+        <div class="step-section">
+            <h2>1. Upload CSV</h2>
+            <div class="upload-box">
+                <input type="file" id="csvFile" accept=".csv">
+                <button type="button" class="btn btn-primary" onclick="convertCSV()">Convert CSV to JSON</button>
+            </div>
+        </div>
+
+        <!-- Step 2: JSON Display -->
+        <div class="step-section">
+            <h2>2. JSON Display</h2>
+            <pre id="jsonOutput">Upload a CSV file and click Convert CSV to JSON.</pre>
+        </div>
+
+        <!-- Step 3: Actions -->
+        <div class="step-section">
+            <h2>3. Download JSON File</h2>
+            <div class="actions-bar">
+                <button type="button" class="btn btn-secondary" onclick="downloadJSON()">Download JSON</button>
+                <button type="button" class="btn btn-outline" onclick="copyJSON()">Copy to Clipboard</button>
+                <span id="copyFeedback" class="toast-msg">Copied!</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- External JavaScript Logic -->
+    <script src="script.js"></script>
+</body>
+</html>

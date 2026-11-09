@@ -1,0 +1,92 @@
+[
+    {
+        "studentId": 2026001,
+        "firstName": "Juan",
+        "lastName": "Dela Cruz",
+        "program": "Bachelor of Science in Information Technology",
+        "yearLevel": 3,
+        "emailAddress": "juan@example.com",
+        "outstandingBalance": 0
+    },
+    {
+        "studentId": 2026002,
+        "firstName": "Maria",
+        "lastName": "Santos",
+        "program": "Bachelor of Science in Computer Science",
+        "yearLevel": 2,
+        "emailAddress": "maria@example.com",
+        "outstandingBalance": 5000
+    },
+    {
+        "studentId": 2026003,
+        "firstName": "Pedro",
+        "lastName": "Reyes",
+        "program": "Bachelor of Science in Information Technology",
+        "yearLevel": 3,
+        "emailAddress": "pedro@example.com",
+        "outstandingBalance": 1500
+    },
+    {
+        "studentId": 2026004,
+        "firstName": "Ana",
+        "lastName": "Lim",
+        "program": "Bachelor of Science in Computer Science",
+        "yearLevel": 1,
+        "emailAddress": "ana@example.com",
+        "outstandingBalance": 0
+    },
+    {
+        "studentId": 2026005,
+        "firstName": "Carlo",
+        "lastName": "Garcia",
+        "program": "Bachelor of Science in Information Technology",
+        "yearLevel": 4,
+        "emailAddress": "carlo@example.com",
+        "outstandingBalance": 2500
+    },
+    {
+        "studentId": 2026006,
+        "firstName": "Sofia",
+        "lastName": "Mendoza",
+        "program": "Bachelor of Science in Computer Science",
+        "yearLevel": 2,
+        "emailAddress": "sofia@example.com",
+        "outstandingBalance": 3200
+    },
+    {
+        "studentId": 2026007,
+        "firstName": "Miguel",
+        "lastName": "Torres",
+        "program": "Bachelor of Science in Information Technology",
+        "yearLevel": 1,
+        "emailAddress": "miguel@example.com",
+        "outstandingBalance": 0
+    },
+    {
+        "studentId": 2026008,
+        "firstName": "Isabella",
+        "lastName": "Ramos",
+        "program": "Bachelor of Science in Computer Science",
+        "yearLevel": 3,
+        "emailAddress": "isabella@example.com",
+        "outstandingBalance": 1800
+    },
+    {
+        "studentId": 2026009,
+        "firstName": "Gabriel",
+        "lastName": "Flores",
+        "program": "Bachelor of Science in Information Technology",
+        "yearLevel": 4,
+        "emailAddress": "gabriel@example.com",
+        "outstandingBalance": 750
+    },
+    {
+        "studentId": 2026010,
+        "firstName": "Nicole",
+        "lastName": "Castro",
+        "program": "Bachelor of Science in Computer Science",
+        "yearLevel": 1,
+        "emailAddress": "nicole@example.com",
+        "outstandingBalance": 4200
+    }
+]
